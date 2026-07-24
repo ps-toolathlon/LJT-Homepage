@@ -81,14 +81,6 @@ First author: Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Z
 First author: Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
 [GitHub](https://github.com/Vicent0205/Vision4Chart)
 
-## Skills
-
-- Programming: Python, PyTorch, TensorFlow
-- Natural Language Processing
-- Machine Learning
-- Computer Vision
-- Large Language Models (LLMs)
-
 ## Contact
 
 - **Email**: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
