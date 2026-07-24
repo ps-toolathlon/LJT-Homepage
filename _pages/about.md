@@ -57,7 +57,7 @@ Shanghai Jiao Tong University
 **On the Universal Truthfulness Hyperplane Inside LLMs**  
 [EMNLP 2024](https://www.aclweb.org/anthology/2024.emnlp-main.XXX)  
 First author: Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He  
-[GitHub](https://github.com/JuntengLiu/Universal_Truthfulness_Hyperplane)
+[GitHub](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
 
 **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**  
 [ICML 2024](https://icml.cc/virtual/2024/poster/XXXXXXXX)  
@@ -74,12 +74,12 @@ Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He
 **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**  
 2025 (Arxiv)  
 First author: Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
-[GitHub](https://github.com/JuntengLiu/SynLogic)
+[GitHub](https://github.com/Vicent0205/SynLogic)
 
 **On the Perception Bottleneck of VLMs for Chart Understanding**  
 2025 (Arxiv)  
 First author: Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
-[GitHub](https://github.com/JuntengLiu/Vision4Chart)
+[GitHub](https://github.com/Vicent0205/Vision4Chart)
 
 ## Skills
 
